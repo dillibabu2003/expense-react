@@ -1,0 +1,28 @@
+.new-expense{
+    margin: 10px;
+    padding: 10px;
+    background-color: #a892ee;
+    border-radius: 12px;
+}
+.expense-form label{
+    display: block;
+}
+
+.expense-form input{
+    padding:  0.5rem;
+    border-radius: 6px;
+    border:1px solid #ccc;
+}
+
+.expense-form button{
+    border-radius: 12px;
+    padding: 0.5rem;
+    background-color: aquamarine;
+    color: black;
+    margin-right:10px;
+}
+
+.form-control-buttons{
+    margin: 10px;
+    
+}
