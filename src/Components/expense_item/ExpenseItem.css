@@ -17,5 +17,24 @@
      height: 3rem;
      text-align: center;
      color:white;
-     font-size: bold;
+     font-size:18px;
+     
     }
+
+    .delete-button{
+      border-radius: 12px;
+      padding: 0.5rem;
+      background-color: rgb(243, 7, 7);
+      color:white;
+      margin-left:10px;
+}
+
+   .edit-button{
+    
+    border-radius: 12px;
+    padding: 0.5rem;
+    background-color: rgb(6, 105, 21);
+    color:white;
+    margin-left:10px;
+
+   }

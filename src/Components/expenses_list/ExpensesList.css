@@ -2,4 +2,10 @@
     padding:10px;
     
   }
-
+.no-expense-list{
+    height: 5rem;
+    text-align: center;
+   
+    color: black;
+    font-size: large;
+}

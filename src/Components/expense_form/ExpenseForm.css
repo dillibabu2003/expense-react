@@ -26,3 +26,11 @@
     margin: 10px;
     
 }
+
+.header{
+    border-radius: 12px;
+    padding: 0.5rem;
+    background-color: aquamarine;
+    color: black;
+    margin-right:10px;
+}
